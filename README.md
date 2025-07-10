@@ -33,14 +33,19 @@ It's designed for emergency situations when you need to silently or visibly call
 ---
 
 ## 🧩 How to Use
+Open Saviolux
 
-1. Open **Saviolux**
-2. Tap **Flash Signal** or **Audio Signal** to send the default SOS
-3. To send a custom message:
-   - Tap **"Custom Message"**
-   - Enter your message
-   - Choose **Flash** or **Audio** output
-   - The app will automatically play the Morse code signal
+- Type your message in the input field
+
+  - (By default, the message is set to “SOS”)
+
+- Choose your preferred output:
+
+- Tap the Flashlight button to send the message in Morse code using light
+
+- Tap the Audio button to send the message in Morse code using sound
+
+The app will automatically convert your message to Morse code and begin the signal.
 
 ---
 
